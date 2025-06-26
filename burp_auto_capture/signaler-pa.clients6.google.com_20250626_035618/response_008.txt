@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+X-Client-Wire-Protocol: h2
+Content-Type: text/plain; charset=utf-8
+Date: Thu, 26 Jun 2025 05:07:02 GMT
+Server: ESF
+Content-Length: 54
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://mail.google.com
+Vary: origin
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: x-client-wire-protocol
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+51
+[[0,["c","rRG_JpdsxpF7VmndXXsbLg","",8,12,30000]]]
