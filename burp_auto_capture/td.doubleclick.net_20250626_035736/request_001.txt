@@ -1,0 +1,19 @@
+GET /td/rul/16894132864?random=1750914201644&cv=11&fst=1750914201644&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be56o1z89217330992za200zb9217330992&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104528500~104684208~104684211~104718208~104784387~104784389&u_w=2560&u_h=1080&url=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&ref=https%3A%2F%2Fplaybicho.com%2F&hn=www.googleadservices.com&frm=0&tiba=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&npa=0&auid=547885296.1750913656&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&data=event%3Dgtag.config HTTP/2
+Host: td.doubleclick.net
+Cookie: IDE=AHWqTUnBsxNo9io7obZt32X0jylpFNbvyaJ5CTbX61OTyybbr-ImAJkUZBT7kh99F_E; ar_debug=1
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Referer: https://playbicho.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
