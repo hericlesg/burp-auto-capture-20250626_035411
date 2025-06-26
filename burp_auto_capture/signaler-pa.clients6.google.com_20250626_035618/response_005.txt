@@ -1,0 +1,26 @@
+HTTP/2 200 OK
+Content-Type: application/json+protobuf; charset=UTF-8
+Strict-Transport-Security: max-age=10886400; includeSubdomains
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Date: Thu, 26 Jun 2025 05:06:00 GMT
+Server: ESF
+Content-Length: 92
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://mail.google.com
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: vary,vary,vary,date,server,content-length
+Set-Cookie: SIDCC=AKEyXzXtU34BsJm-aMzInR2K8C7zTOPiyHOJUO-nLuQPnkaUfjObHZ1l1YM97_iZR-jiMhdo-w; expires=Fri, 26-Jun-2026 05:06:00 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzUh7uRZ5zyf6ThtNeoWBMkRuTDTcpqyxgKaMrWV59hv5EGwyRSBwDE9fVHUhGfwKSOyfQ; expires=Fri, 26-Jun-2026 05:06:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzXTPiP4_i28bpyREUI0kFFAiwzPt4ssBB8nSElQIK4Ju6xhYzFvHjBTS8c9QUN9ePK1460; expires=Fri, 26-Jun-2026 05:06:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Set-Cookie: SIDCC=AKEyXzUAL58majvCEZsyybUorgbNgJOx-CfSZmShmg-3EvUAk4Srwxd1CmhLrB0muMsmGqn8Xg; expires=Fri, 26-Jun-2026 05:06:00 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzU7XSe7JA3WTpzAR5ewsS89QZGfeZe8SP5fLhiUJCUglSTLCIK8zP8tRHs_w_FgeA0_Xg; expires=Fri, 26-Jun-2026 05:06:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzWkdC2M4SEy1fqSXt3gtYZfqwrI27-XETpNNJjYqCrg3hSxd-05i7Tz_NTWSw2QGJS8v94; expires=Fri, 26-Jun-2026 05:06:00 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Expires: Thu, 26 Jun 2025 05:06:00 GMT
+Cache-Control: private
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+["bqzFld9qMTG5pUajoUmBNiwkMK34DZQK4x8nshl2ssg",3,null,"1750914360156825","1750914360157000"]
