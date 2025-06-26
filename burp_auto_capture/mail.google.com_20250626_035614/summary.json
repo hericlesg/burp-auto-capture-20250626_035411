@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250626_035614", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mail.google.com_20250626_035614/request_001.txt", 
+      "url": "https://mail.google.com:443/sync/u/1/i/s?hl=en&c=30&rt=r&pt=ji", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mail.google.com_20250626_035614/response_001.txt", 
+      "timestamp": 1750914234344
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/mail.google.com_20250626_035614/request_002.txt", 
+      "url": "https://mail.google.com:443/mail/u/1/checkbuild?bl=gmail.pinto-server_20250609.07_p0", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/mail.google.com_20250626_035614/response_002.txt", 
+      "timestamp": 1750920578671
+    }
+  ], 
+  "host": "mail.google.com", 
+  "total_requests": 2
+}
