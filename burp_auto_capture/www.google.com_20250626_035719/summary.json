@@ -1,0 +1,103 @@
+{
+  "capture_timestamp": "20250626_035719", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_001.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_001.txt", 
+      "timestamp": 1750914176038
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_002.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_002.txt", 
+      "timestamp": 1750914176166
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_003.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/anchor?ar=1&k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o&co=aHR0cHM6Ly9wbGF5YmljaG8uY29tOjQ0Mw..&hl=en&v=h7qt2xUGz2zqKEhSc8DD8baZ&size=invisible&cb=ugr77y4ols9e", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_003.txt", 
+      "timestamp": 1750914201580
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_004.txt", 
+      "url": "https://www.google.com:443/ccm/collect?tid=AW-16894132864&en=page_view&dr=playbicho.com&dl=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&scrsrc=www.googletagmanager.com&frm=0&rnd=1611625745.1750914202&dt=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&auid=547885296.1750913656&navt=n&npa=0&gtm=45be56o1z89217330992za200zb9217330992&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104528500~104684208~104684211~104718208~104784387~104784389&tft=1750914201656&tfd=16666&apve=1&apvf=f", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_004.txt", 
+      "timestamp": 1750914201756
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_005.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_005.txt", 
+      "timestamp": 1750915647697
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_006.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_006.txt", 
+      "timestamp": 1750915657483
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_007.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/anchor?ar=1&k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o&co=aHR0cHM6Ly9wbGF5YmljaG8uY29tOjQ0Mw..&hl=en&v=h7qt2xUGz2zqKEhSc8DD8baZ&size=invisible&cb=10azycw8nt9m", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_007.txt", 
+      "timestamp": 1750915805703
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_008.txt", 
+      "url": "https://www.google.com:443/ccm/collect?tid=AW-16894132864&en=page_view&dr=playbicho.com&dl=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&scrsrc=www.googletagmanager.com&frm=0&rnd=2121596902.1750915806&dt=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&auid=547885296.1750913656&navt=n&npa=0&gtm=45be56p0h2z89217330992za200zb9217330992&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104784387~104784389&tft=1750915805609&tfd=8280&apve=1&apvf=sb", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_008.txt", 
+      "timestamp": 1750915805703
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_009.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_009.txt", 
+      "timestamp": 1750915843981
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_010.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_010.txt", 
+      "timestamp": 1750915846251
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_011.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/reload?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_011.txt", 
+      "timestamp": 1750920552368
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.google.com_20250626_035719/request_012.txt", 
+      "url": "https://www.google.com:443/recaptcha/api2/clr?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/www.google.com_20250626_035719/response_012.txt", 
+      "timestamp": 1750920562081
+    }
+  ], 
+  "host": "www.google.com", 
+  "total_requests": 12
+}
