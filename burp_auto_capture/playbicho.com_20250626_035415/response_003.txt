@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Jun 2025 05:02:56 GMT
+Server: Vercel
+Set-Cookie: __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..nCttgmztZP19C-gJ.yFFfBvqLesl9yHdJaFqGfOBc05sJgNmdqTdrf8GPSRbd2794LHBiGywFHpQb8UIi3U013uWrWUfQI6h3m3J41zJ2JTQffAtUCGvMgBquDVt6Vka-peYH6astYFGyWaV9xZDWADMjhVkiO31kBbUjMvHOg_IEVX13kWOo_DYcva3OIpQOOGgXqM799BzT3rLlPZlFNIpLhEBBoG-9jKKk4U7fLaemdNXl9ehxQcMDbV9V7OlGyRVXQma0Tp4LFkD-513pX50fJ4P17-5UgzBnGWUfME-tGs0i_BJ79Qp9AGrl8FzOjEgvmJni0b7OoHG9kjepxVt6mZQn-E2EzO6X_A7Ko8sAxJTnxzFYVuhjN4ak-Q3M23YEk42uWHqCM8vRIcOIlGtuBVv_VZfPBUIh2a-U8uqqY7rE80Bp3HCuZrf5krpg_KgHQbZbMepJo9gi8a7f8fRByMe2_Gi-2XpQ8gzv42wbd1aZkRd2GqREZE8ao0HV0u0H5sJrJvhhbzbDM456AJqCi7wPMOzdxGFFl5ZtbsRurbPU4Y_uvpIJ-SE_5DkV5D7YtHD64m-HzPcc34zv3DdTy8AkiiZ3LUWMVJL46K4R75m9aurPGIH0XrTMvkA3u3qe7Srv2ukM2dKVIcpM97WdO3-f2U60AztyOyxpjEAZJuE21nSR0--9_llLGgn0Hg1KhOyBTifAeFOgYQsXutJ21neBOq8XAl37ioDb8P-1ehOjgEJj1fDYy7FplUXA59VMPpyNo6tLW5cs1yq3A0I9ZDK-F9FqtCqphVVNrOVe3Xr6mcZ8Pk9rGbFONdFGWeae2Skrfi4GRvaN79luUrmGGjLP1gZ0jEhAMsk0XgZa35R8uE2FiJp2-X-1yeQqFRoWOwkfThfJsDDr7Pub124vn9VO5QycV6WybnRtTKocUFSQJ7XE8OCRN-8ZFOSZU_uMQsJlSN24Q9rA8fFzp7Dj_FL-NEqVhA.2F5ptp_b0xbUSy5Zwv83gQ; Path=/; Expires=Fri, 27 Jun 2025 05:02:56 GMT; HttpOnly; Secure; SameSite=Lax
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /api/auth/[...nextauth]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::qxvxj-1750914175593-849032223de5
+
+{"url":"https://playbicho.com"}
