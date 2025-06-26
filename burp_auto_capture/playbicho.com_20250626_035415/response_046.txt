@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:07:11 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Action-Revalidated: [[],0,0]
+X-Matched-Path: /jogo/roleta
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::vklcq-1750914431860-56f435deef1a
+
+0:["$@1",["m19vGXSGzXT5VnMRy7Y8J",null]]
+1:{"id":30,"active":1,"max_bet":"50.00","bet_type":"roulette","options":null,"comparison":"grupo","name":"Roleta","slug":"roleta","subtitle":"Roleta do MilhÃ£o","bonus":20,"odds":18,"how_to_bet":"VocÃª Escolhe 1 Grupo de 01 a 25.","how_to_win":"VocÃª serÃ¡ premiado quando o nÃºmero escolhido for igual ao grupo do resultado sorteado na roleta.","probabilities":"1/25","format":"00"}
