@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Jun 2025 05:08:52 GMT
+Server: Vercel
+Set-Cookie: __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0.._4VUn_cbEmeXorxt.ISU53H9y-BJF7gCLV2A_UBxufHq9ysUmbvXkxp9b2rIajkyqBV0i4MziBmkFSpuDQ3Ea__ybpOeDdJ9Fnick0-Ha3hu1obAInpe0d6E95id_hO6uhhA_ZTlQcFgtYurJ_ASVJYCpqHBz-X1CmfSC8t4ItiPTp1FKfb7x37qeXB5LPGxSHsTp4YFdP0n18I8sUk3Ai2h6EABgBQKfZykNuZLI5C0r7vC04vDHeiUauashgmvhjsqSJsGnx2jwCzy5ZVCwtsQOfgKXAwvfNKi5dl9iP_ywoV8LhlNLujEjFihNgvFbPMi46R0nrau2z3DMrlTY9vEXpfTbqeuJO2_mp0cXN2t1CySYVKzRA8cKefqvUgILBCIkQTHY71T2-QkXzMoROoChBeqOPioPHjlatZ85MuCgKNvyls4REX21gprpq0s5MsAdgLLnYm9hrLC2pV4mNK6GGfjWfbuf1q-MEXM9ARx_ZbFFfnrLdxrJkTQ-PawxY18ADYF-D1lfPhGWIyeAY1fU5b5QydR0wRSbF9vqnhPg83hcEITZ8I34KKeHs7dEdhCx99VB-OfTvvKS_J4jpuyMzsB2D5NACC6lNcJq6-XuL-hVwcNUiSWksieHluzLpMWx8P4TyDVs442MxaHo5peqkgCtCZ5tLcMGRP8iNiVDLhSwfe8eA3OQ8WrN0MZ-CelpB3h921d3k2sBQfB3Rx4KLUeO_ky9SAFBpDvJlMGyeDKfPyYYag0g0DW4Eu177dJA6n4NSCkErVqiKrdVmPTJVo4oVt7Sc1t-LJgUzWSCP_BBr4D2otvQT1PeqjRKEbbzwYHomnJXTXf3oroHpUaTbsu0JLb2HamaM5NV_-RtyJXLS2w36GhUigilPfg3wdsoeA-u3HtA6lKEg9-k4chQUIkAb6-rHUDegSdT4u4ziyMbAvSUn1hHhL4rjKKWisLY3PcTZymdXqHOgAktx2UmGo0NWRJnyQ.W4g2iGsxBBcSPmT2QjVBMg; Path=/; Expires=Fri, 27 Jun 2025 05:08:52 GMT; HttpOnly; Secure; SameSite=Lax
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /api/auth/[...nextauth]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::pnb7k-1750914532745-e00fdfbacb4e
+
+{"user":{"sub":28765,"id":28765,"email":"admxship@gmail.com","nome":"Hericles","role":"APOSTADOR","photo":"010","iat":1750914176,"exp":1751173376,"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjI4NzY1LCJpZCI6Mjg3NjUsImVtYWlsIjoiYWRteHNoaXBAZ21haWwuY29tIiwibm9tZSI6IkhlcmljbGVzIiwicm9sZSI6IkFQT1NUQURPUiIsInBob3RvIjoiMDEwIiwiaWF0IjoxNzUwOTE0MTc2LCJleHAiOjE3NTExNzMzNzZ9.148j4BLJMvMl8MNlGcXvymm1Bqebp8J9RFPJ0UTYKvc","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjI4NzY1LCJpZCI6Mjg3NjUsImVtYWlsIjoiYWRteHNoaXBAZ21haWwuY29tIiwibm9tZSI6IkhlcmljbGVzIiwicm9sZSI6IkFQT1NUQURPUiIsInBob3RvIjoiMDEwIiwiaWF0IjoxNzUwOTE0MTc2LCJleHAiOjE3NTE1MTg5NzZ9.B1XzwYeev_9lfnhLKQvZB9Ejblfpq4K2LItPqYJ7Ja8"},"expires":"2025-06-27T05:08:52.788Z"}
