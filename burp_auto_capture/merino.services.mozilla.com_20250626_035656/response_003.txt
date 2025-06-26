@@ -1,0 +1,12 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Thu, 26 Jun 2025 05:04:41 GMT
+Content-Type: application/json
+Content-Length: 785
+Cache-Control: private, max-age=888
+X-Request-Id: 689302cc765b4be0a49ed030f7bf2b58
+Strict-Transport-Security: max-age=31536000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"suggestions":[{"title":"Weather for GoiÃ¢nia","url":"https://www.accuweather.com/pt/br/goiania/43599/current-weather/43599?lang=pt-br&partner=web_mozilla_adc","provider":"accuweather","is_sponsored":false,"score":0.3,"city_name":"GoiÃ¢nia","region_code":"Brazil","current_conditions":{"url":"https://www.accuweather.com/pt/br/goiania/43599/current-weather/43599?lang=pt-br&partner=web_mozilla_adc","summary":"CÃ©u claro","icon_id":33,"temperature":{"c":20,"f":68}},"forecast":{"url":"https://www.accuweather.com/pt/br/goiania/43599/daily-weather-forecast/43599?lang=pt-br&partner=web_mozilla_adc","summary":"Este fim de semana serÃ¡ agradÃ¡vel","high":{"c":30,"f":86},"low":{"c":17,"f":63}}}],"request_id":"689302cc765b4be0a49ed030f7bf2b58","client_variants":[],"server_variants":[]}
