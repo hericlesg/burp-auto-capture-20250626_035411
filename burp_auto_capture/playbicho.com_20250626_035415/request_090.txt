@@ -1,0 +1,17 @@
+GET /api/auth/session HTTP/2
+Host: playbicho.com
+Cookie: _ga=GA1.1.1892317455.1750913656; _gcl_au=1.1.547885296.1750913656; FPID=FPID2.2.C7IzPHRTNeVV83eh4c2anFO8%2Fh8bl9E%2FGlKOfjP8nQs%3D.1750913656; FPLC=9hWYnz8o4iF4%2F6Sc9E8Q%2Bi%2FS2pTk3L2kY8xWM4w3A8M1MHb%2Fl2TkxF4d%2BdemkUwQXu4vlVfn02UfpzM8WWJ9l0yASoQiYfPaLECEUMJi3dIcPL4aO5K5Tp39XZayZQ%3D%3D; FPAU=1.1.547885296.1750913656; _fbp=fb.1.1750913656399.2071124089; __Host-next-auth.csrf-token=998139257e0e269af3cb1682391dc1cbcb9acaaea079dd68ddbb418da9d125f4%7C69f9c16e8500bfe2fa444a73e407c2c85e0cc1496b4cd5f918fcd6ab56ac5710; __Secure-next-auth.callback-url=https%3A%2F%2Fplaybicho.com; cookie_telefone=+5562991335797; cookie_ultimo_nome=Moreira; cookie_email=admxship@gmail.com; cookie_genero=female; cookie_primeiro_nome=Ariadne; cookie_usuario=1; FPGSID=1.1750920435.1750920435.G-4SF769PQCQ.Dj4HENlHY_FWJ826NaR4Ew; _ga_4SF769PQCQ=GS2.1.s1750913656$o1$g1$t1750920451$j44$l0$h171993925; _ga_9QJSE4GKKL=GS2.1.s1750913655$o1$g1$t1750920459$j36$l0$h0; _ga_XC5853QYZG=GS2.1.s1750913656$o1$g1$t1750920459$j36$l0$h0; __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Z0zIE08DAGGIIuMN.Z_YAI49PUvhCjZ5mpWcD4x3LjFFs-DQMx9QmWGt49BWK-Lj-Hsbz_9mza9IW-U5HB3FKnBTp9zQaItMvY23JwaTt1KImjmKgsmsATVN0M10pR16USTxjDIy1KjLMe6JNot-ok1j0BiXbLT5ImLShDQw-6aOR6As5JaXSzoTTTkon-TwKlASfJywtk4vcXTvtmG1FrUvFmI90zwswit4SmDEb2bTJ-OqLDE2ut5PaFnFzSXTvKLLcBU6_zE2CNO2SqOXz1GVb3pGU40vnm7tAgIbcZetMNr-yv4We_RjoXHOa4EtxZbKeWg-kj8aJ3mN7eGaYJYoIc8Ti6l51yfxtceic0NEa2ewBYv0hvp42fnR5bp4DK0dAqpa1gbD_l5qwy6nTkjzeLpLsPDJt-tTZBpPYjqz-fWPJeNHkEXMw6hOa0feHOdKu7928sE3ejT1Dgl1aklozns56xSsPa478BscLYyMsDKwDrnAM3fziWsoxoDHGDSShJSJYW2qVyT67LYxn5EOHLR-lohRDkfmBEcVi9Q1FX7F68smRQzEJafrKBaYfs5Xktx_nqH9jZvC2MRwXycD0XX0YYtkclRETw_5K2x3KP4cMKZRT2jnb1BZ-bl_XI6KMiLUplQOtQfyNFto_rC8GlVwymQAQ-z3-yKIMiwmHKwulZYVTRfMIFlykhi2ZJkbnc7VfGdAxN2LqxiPtR4upMEMvSKYxw3hAAPTEYKvpMH93XJrTdREZ8NganIhDLuw4okJgh2lKXwbv5-Md8vbzC3FQzqhQ-wBedH8_TSvKYa8AoZ-Klhwn0Aq0U_70Hf2RO5xp4MwoqUCSsrhWMvZV-6_WSFv9ydtf2kVU7-3Gl6Q9Ioo-W8gRS8DEM3Mo-jwXp9MxB-niS489ctmaofuia3SdWb8DEiwYj4NFGodEJUFOlH-nUJnCYHo5OO7dod-JjaJs3xZxOAXlanrFZ9gatwoj60-7RM--y-ywotg0DBaWDeh-L-WVocAiKnOno7x1Pj6eLr3bMA.DX0SXUoyuuTyssQmR8bUJQ
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://playbicho.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
