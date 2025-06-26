@@ -1,0 +1,19 @@
+HTTP/2 200 OK
+Access-Control-Allow-Origin: https://mail.google.com
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Playlog-Web
+Content-Type: text/plain; charset=UTF-8
+Date: Thu, 26 Jun 2025 05:29:29 GMT
+Server: Playlog
+Content-Length: 131
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: SIDCC=AKEyXzXDu7QaPaQAx-0oQqlLW3Vna7JZTtyy1RfT3BTLtO6Q8ForwN7J9OAWnBoCq4KiZYAWkQ; expires=Fri, 26-Jun-2026 05:29:29 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzUZM0_YSBrUGb3BZSeImTxyg0HvuhysvtFuxB90ObtPq866Vm9mtdbuHtAGii6GanWwSQ; expires=Fri, 26-Jun-2026 05:29:29 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzU1oXcU5V5IA8BhTBfIvDKsKz4EYmk0zBSkFF519cy0rK1oJl32kHS8fug4EbipdiMy2o4; expires=Fri, 26-Jun-2026 05:29:29 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Expires: Thu, 26 Jun 2025 05:29:29 GMT
+Cache-Control: private
+
+["-1",null,[[["ANDROID_BACKUP",0],["BATTERY_STATS",0],["SMART_SETUP",0],["TRON",0]],-3334737594024971225],[],{"175237375":[10000]}]
