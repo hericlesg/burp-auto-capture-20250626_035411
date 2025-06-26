@@ -1,0 +1,24 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+X-Content-Type-Options: nosniff
+Content-Disposition: attachment; filename="response.txt"
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Cross-Origin-Opener-Policy: same-origin-allow-popups
+X-Goog-Server-Latency: 35
+Gfe-Rtt-Ms: 310
+X-Gmail-Storage-Response: CAIYACCAeDIIQ0FJU0FBPT05AAAAAAAAAABAgICAgDw=
+Date: Thu, 26 Jun 2025 05:03:53 GMT
+Server: ESF
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 26 Jun 2025 05:03:53 GMT
+Set-Cookie: SIDCC=AKEyXzXy17u5caYz3XznXKX--_PoErOqxlJf0rPCA8F7C814EfMOKYgdZNRka_Q2WqHDhSRLNg; expires=Fri, 26-Jun-2026 05:03:53 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzVx77J0zHYJPkp0cw6zcoDBbjIzLr2mh_Hm-7O-o7y7fpK6ItPDuTb_UMe4LbsNxh86uQ; expires=Fri, 26-Jun-2026 05:03:53 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzW0xcKdpDb9mJmCYbWuLG1S6rPJZhC96iBfStJmeOBLQTclG4RPUbTrMpPGQ-1dkWZ-_Pk; expires=Fri, 26-Jun-2026 05:03:53 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Set-Cookie: SIDCC=AKEyXzWIbJ8jwfnm_FQyAvWYLhD6g-VPUY505u4hlbRNH3wVltpNwv08trh-_qhHrIEvvIoNRw; expires=Fri, 26-Jun-2026 05:03:53 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzUl_vt5z9uN-7w334Vcz68Wl1Ky6feHo0RCvp9qgmllGj2pHsE7wrgtXsWoND8v-8FmNg; expires=Fri, 26-Jun-2026 05:03:53 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzUec_p3puWgra5tCzaOxbw9aYEirdi065FDQ77gznFs9nKzDTkzK-1xTjcMPU3sCDuVO_E; expires=Fri, 26-Jun-2026 05:03:53 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Alt-Svc: clear
+
+[null,[0,null,null,null,[],null,0,1546],[[["^smartlabel_notification",0,1],["^iim",0,1],["^smartlabel_group",0,0],["^b",0,0],["^sq_ig_i_personal",null,1],["^sq_ig_i_social",null,0],["^f",0,0],["^i",0,1],["^cr",0,0],["^p_cc",0,0],["^io_f_iiim",0,1],["^k",0,0],["^sq_ig_i_promo",0,0,0],["^io_f_iim",0,1],["^smartlabel_pure_notif",0,1],["^smartlabel_finance",0,0],["^smartlabel_promo",0,0],["^r",0,0],["^s",0,0],["^t",0,0],["^io_im",0,1],["^scheduled",0,0],["^smartlabel_social",0,0],["^all",0,1],["^assistive_travel",0,0],["^assistive_purchase",0,0],["^io_f_ti",0,0],["^afw"],["^t_z",0,0],["^smartlabel_travel",0,0]]],[1546]]
