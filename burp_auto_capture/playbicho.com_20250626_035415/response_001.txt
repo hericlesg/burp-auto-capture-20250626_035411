@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Jun 2025 05:02:55 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /api/auth/[...nextauth]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::k8w9f-1750914175463-662326f3dc46
+
+{"credentials":{"id":"credentials","name":"Credentials","type":"credentials","signinUrl":"https://playbicho.com/api/auth/signin/credentials","callbackUrl":"https://playbicho.com/api/auth/callback/credentials"}}
