@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:03:11 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Action-Revalidated: [[],0,0]
+X-Matched-Path: /
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::4bhgd-1750914191113-a68b42c4d2cc
+
+0:["$@1",["m19vGXSGzXT5VnMRy7Y8J",null]]
+1:{"telephone_support":"(55) 99715-0378","email_support":"playnobicho@gmail.com"}
