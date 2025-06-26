@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Jun 2025 05:02:55 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /api/auth/[...nextauth]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::4kdbj-1750914175532-b863bd30c073
+
+{"csrfToken":"998139257e0e269af3cb1682391dc1cbcb9acaaea079dd68ddbb418da9d125f4"}
