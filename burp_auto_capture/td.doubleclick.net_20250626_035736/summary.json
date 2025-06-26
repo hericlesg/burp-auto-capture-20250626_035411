@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250626_035736", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/td.doubleclick.net_20250626_035736/request_001.txt", 
+      "url": "https://td.doubleclick.net:443/td/rul/16894132864?random=1750914201644&cv=11&fst=1750914201644&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be56o1z89217330992za200zb9217330992&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104528500~104684208~104684211~104718208~104784387~104784389&u_w=2560&u_h=1080&url=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&ref=https%3A%2F%2Fplaybicho.com%2F&hn=www.googleadservices.com&frm=0&tiba=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&npa=0&auid=547885296.1750913656&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&data=event%3Dgtag.config", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/td.doubleclick.net_20250626_035736/response_001.txt", 
+      "timestamp": 1750914201925
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/td.doubleclick.net_20250626_035736/request_002.txt", 
+      "url": "https://td.doubleclick.net:443/td/rul/16894132864?random=1750915805603&cv=11&fst=1750915805603&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45be56p0h2z89217330992za200zb9217330992&gcd=13l3l3l3l1l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104784387~104784389&u_w=2560&u_h=1080&url=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&ref=https%3A%2F%2Fplaybicho.com%2F&hn=www.googleadservices.com&frm=0&tiba=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&npa=0&auid=547885296.1750913656&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&data=event%3Dgtag.config", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/td.doubleclick.net_20250626_035736/response_002.txt", 
+      "timestamp": 1750915805827
+    }
+  ], 
+  "host": "td.doubleclick.net", 
+  "total_requests": 2
+}
