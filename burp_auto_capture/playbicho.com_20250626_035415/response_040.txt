@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: text/plain; charset=utf-8
+Cross-Origin-Resource-Policy: cross-origin
+Date: Thu, 26 Jun 2025 05:06:57 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Ratelimit-Limit: 1000
+X-Ratelimit-Remaining: 999
+X-Ratelimit-Reset: 60
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::qxvxj-1750914417763-5ba3aa76f2e3
+Content-Length: 2
+
+OK
