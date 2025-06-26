@@ -1,0 +1,28 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Vary: Sec-Fetch-Dest, Sec-Fetch-Mode, Sec-Fetch-Site
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Thu, 26 Jun 2025 05:29:49 GMT
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: require-trusted-types-for 'script';report-uri https://csp.withgoogle.com/csp/IdentityRotateCookiesHttp
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Resource-Policy: same-site
+Cross-Origin-Opener-Policy: same-origin
+Accept-Ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-WoW64, Sec-CH-UA-Form-Factors, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*
+Server: ESF
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: __Secure-1PSIDTS=sidts-CjIB5H03Pwh1pHfIIKFdt56jaKwOc49tbJdnnnKBJSrV1esp3JJdRpiEm1b8EJ-MhShCzxAA; Domain=.google.com; Expires=Fri, 26-Jun-2026 05:29:49 GMT; Path=/; Secure; HttpOnly; Priority=HIGH; SameParty
+Set-Cookie: __Secure-3PSIDTS=sidts-CjIB5H03Pwh1pHfIIKFdt56jaKwOc49tbJdnnnKBJSrV1esp3JJdRpiEm1b8EJ-MhShCzxAA; Domain=.google.com; Expires=Fri, 26-Jun-2026 05:29:49 GMT; Path=/; Secure; HttpOnly; Priority=HIGH; SameSite=none
+Set-Cookie: SIDCC=AKEyXzXcc0WjRgEwsX-HesF7LY9RFs126MVjgziRReq7bAAqPHeMNxumAEgoMt8XWs28OBdcQQ; expires=Fri, 26-Jun-2026 05:29:49 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzUdsZy5Kq-_kEMxjPUQlsu_MI3ZVyUBAqxrBxa-PIA5Qsj4mV06vkGu0MyUXcDuIpQIRg; expires=Fri, 26-Jun-2026 05:29:49 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzVJf6oYGapqbYvKmkLQjKmCCYLJl52AAIzv2K_-O7HsfCZgsfjKSu8wcx3MUOyVVD7Wos4; expires=Fri, 26-Jun-2026 05:29:49 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+)]}'
+
+[["identity.hfcr",600],["di",39]]
