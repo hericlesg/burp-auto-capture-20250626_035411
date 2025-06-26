@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250626_035646", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/peoplestackwebexperiments-pa.clients6.google.com_20250626_035646/request_001.txt", 
+      "url": "https://peoplestackwebexperiments-pa.clients6.google.com:443/$rpc/peoplestackwebexperiments.PeopleStackExperimentsService/GetExperimentFlags", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/peoplestackwebexperiments-pa.clients6.google.com_20250626_035646/response_001.txt", 
+      "timestamp": 1750920565874
+    }
+  ], 
+  "host": "peoplestackwebexperiments-pa.clients6.google.com", 
+  "total_requests": 1
+}
