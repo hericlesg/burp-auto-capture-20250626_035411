@@ -1,0 +1,21 @@
+HTTP/2 200 OK
+Access-Control-Allow-Origin: https://mail.google.com
+Cross-Origin-Resource-Policy: cross-origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: X-Playlog-Web
+Set-Cookie: NID=525=SGVZWTdyWCs7q6gZm3kZfW6K6scJPVeSK6SXyGtTbuFuFUa-yuGJGx9SawLjYbPtRpXH94bUIyqwsYH0XX8AQ7d6STcBLJ2RhG2jVpgZu3pV48q8dxOYOAZusu6V7nNnChveOVsLW6X7OlwUrxBFQF9q0wa36qVzLZ5i5TKLrlrZWz4_ORJpPBJDhlzwt7HpdlRiYjRputPgOgK_KSNHF4GcMzQ-m62CTh7upPEiEAxFBh2Pyiqrs4597WET32IQry6t28ziaC0dgfucM4OwMIUTctpx2w6b3SYtz6oSoKhuA78hdadGO8C0KSbAtgMW86PG4JwVyz1Y66tkMQYLvCfFWCNvdIw8t8Q_xL08k5m4jBPfk1aZZc-9tcjXw3w3GFgE6JAurUrmet091uTbbGxzCyDM07GMTSTUYx5fzRU4hvXnTjtDQOSnjrb34C4rUGk6JDjlLQpKDJUwth_psbAWvqq_U6_3BPz-nj48_fINS3bblkC214_0hF4Pv5VOS-CwJ2MDF1Didw4nvImV-H-5ic2GH9soycN2ua1vmR8MvAK-H_sfJpNwIRPt5FV0bI6JT34OCmbOhmHtCjPOjqF6VQcrjk_PZjaoAVihEgp3mJcthe6oAzRb3G5BhQ5c0iKJuXK6mlalWO67q0ViSwP5q5kE4d0683q7dfgpp0P9RRriE2CTynwKnMP07gFnIXOn6B_VfKXUtxH10PN9bsyqvBxCbNo6ZMciIOO4d4pjXYpuMFKfHSg; expires=Fri, 26-Dec-2025 02:49:18 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+Set-Cookie: SIDCC=AKEyXzVq6MZkd7NAWaErKpHi5Ks5X83qFS95FREwBRO7PK8Z5YBn52vNsi45E5EzIoWOUUm1BA; expires=Fri, 26-Jun-2026 06:49:37 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzXTI1OZcfnsG4C7xnE_WEYXB40DW9uWx5uBGQFYsBgSXsOoHRxQvi3iZE4rKikN-FJg3Q; expires=Fri, 26-Jun-2026 06:49:37 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzWcW6q-Q66nWCYyDjjWDhgM_-p-WoKI6tqaB9hOWEKEBw5802lfogEzKigWs7y3pPUt9EE; expires=Fri, 26-Jun-2026 06:49:37 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+P3p: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Content-Type: text/plain; charset=UTF-8
+Date: Thu, 26 Jun 2025 06:49:37 GMT
+Server: Playlog
+Content-Length: 131
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Expires: Thu, 26 Jun 2025 06:49:37 GMT
+Cache-Control: private
+
+["-1",null,[[["ANDROID_BACKUP",0],["BATTERY_STATS",0],["SMART_SETUP",0],["TRON",0]],-3334737594024971225],[],{"175237375":[10000]}]
