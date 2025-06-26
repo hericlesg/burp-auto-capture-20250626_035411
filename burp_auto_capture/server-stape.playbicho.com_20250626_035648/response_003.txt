@@ -1,0 +1,29 @@
+HTTP/2 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://playbicho.com
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Thu, 26 Jun 2025 05:03:21 GMT
+Set-Cookie: FPID=FPID2.2.C7IzPHRTNeVV83eh4c2anFO8%2Fh8bl9E%2FGlKOfjP8nQs%3D.1750913656; Max-Age=63072000; Domain=playbicho.com; Path=/; Secure; HttpOnly
+Set-Cookie: FPAU=1.1.547885296.1750913656; Max-Age=7775455; Domain=playbicho.com; Path=/; Secure
+Set-Cookie: _fbp=fb.1.1750913656399.2071124089; Max-Age=7776000; Domain=playbicho.com; Path=/; SameSite=Lax; Secure; HttpOnly
+Trace-Id: 597a9f21-7c15-434e-8ae4-d601c20d29d6
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"send_pixel":["https://googleads.g.doubleclick.net/pagead/viewthroughconversion/16894132864/?random=1667289599&fst=1750914201541&cv=10&fmt=3&bg=ffffff&guid=ON&u_w=2560&u_h=1080&gtm=45j91e56o1h1v9217899717z89217330992z99217833859za200zb9217330992&url=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&ref=https%3A%2F%2Fplaybicho.com%2F&tiba=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&auid=547885296.1750913656&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&dma=0&npa=0&gcd=13l3l3l3l1l1&_is_sw=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104784387~104784389&_tu=BA"],"options":{}}
+
+event: message
+data: {"send_pixel":["${transport_url}/_set_cookie?val=sCHvccbXOBP8Sjmrnru97wL3A6Sa6ES3iMuycFoeqmrOlb0GhMWiHP46mWtjXBfouTn8ZPJLbkQqXzP5%2BKrNk1Z6O2EVTGz9hazRDsbwglb1u6qdAPsSOWQXXqyqj32ryKFSqbNQY6E13I5lXDHNK%2FA1wroxEAewMZ171m9o3DpXkKF0en%2B47%2Bp6Kqba3XNT%2FsKbVs0C8i%2BDF%2FIh0xwzZCf%2Fzy5JN5JqvLuzBa2%2F6%2FZk"]}
+
+event: message
+data: {"send_pixel":["https://analytics.google.com/g/s/collect?dma=0&npa=0&gcd=13l3l3l3l1l1&gtm=45j91e56o1h1v9217899717z89217330992z99217833859za200zb9217330992&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104784387~104784389&_is_sw=0&_tu=BA&_gsid=4SF769PQCQvL85pfSqYoa0RDPnrzsUMg"],"options":{}}
+
+event: message
+data: {"send_pixel":["https://www.google.com.br/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&dma=0&npa=0&gcd=13l3l3l3l1l1&tid=G-4SF769PQCQ&cid=C7IzPHRTNeVV83eh4c2anFO8%2Fh8bl9E%2FGlKOfjP8nQs%3D.1750913656&gtm=45j91e56o1h1v9217899717z89217330992z99217833859za200zb9217330992&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104784387~104784389&_is_sw=0&_tu=BA&aip=1&z=1469893022"],"options":{}}
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
