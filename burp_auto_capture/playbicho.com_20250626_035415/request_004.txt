@@ -1,0 +1,17 @@
+GET /api/auth/session HTTP/2
+Host: playbicho.com
+Cookie: _ga=GA1.1.1892317455.1750913656; _gcl_au=1.1.547885296.1750913656; FPID=FPID2.2.C7IzPHRTNeVV83eh4c2anFO8%2Fh8bl9E%2FGlKOfjP8nQs%3D.1750913656; FPLC=9hWYnz8o4iF4%2F6Sc9E8Q%2Bi%2FS2pTk3L2kY8xWM4w3A8M1MHb%2Fl2TkxF4d%2BdemkUwQXu4vlVfn02UfpzM8WWJ9l0yASoQiYfPaLECEUMJi3dIcPL4aO5K5Tp39XZayZQ%3D%3D; FPAU=1.1.547885296.1750913656; _fbp=fb.1.1750913656399.2071124089; FPGSID=1.1750913656.1750913656.G-4SF769PQCQ.vL85pfSqYoa0RDPnrzsUMg; __Host-next-auth.csrf-token=998139257e0e269af3cb1682391dc1cbcb9acaaea079dd68ddbb418da9d125f4%7C69f9c16e8500bfe2fa444a73e407c2c85e0cc1496b4cd5f918fcd6ab56ac5710; __Secure-next-auth.callback-url=https%3A%2F%2Fplaybicho.com; _ga_4SF769PQCQ=GS2.1.s1750913656$o1$g1$t1750913687$j29$l0$h171993925; _ga_9QJSE4GKKL=GS2.1.s1750913655$o1$g1$t1750914153$j49$l0$h0; _ga_XC5853QYZG=GS2.1.s1750913656$o1$g1$t1750914153$j49$l0$h0; __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..nCttgmztZP19C-gJ.yFFfBvqLesl9yHdJaFqGfOBc05sJgNmdqTdrf8GPSRbd2794LHBiGywFHpQb8UIi3U013uWrWUfQI6h3m3J41zJ2JTQffAtUCGvMgBquDVt6Vka-peYH6astYFGyWaV9xZDWADMjhVkiO31kBbUjMvHOg_IEVX13kWOo_DYcva3OIpQOOGgXqM799BzT3rLlPZlFNIpLhEBBoG-9jKKk4U7fLaemdNXl9ehxQcMDbV9V7OlGyRVXQma0Tp4LFkD-513pX50fJ4P17-5UgzBnGWUfME-tGs0i_BJ79Qp9AGrl8FzOjEgvmJni0b7OoHG9kjepxVt6mZQn-E2EzO6X_A7Ko8sAxJTnxzFYVuhjN4ak-Q3M23YEk42uWHqCM8vRIcOIlGtuBVv_VZfPBUIh2a-U8uqqY7rE80Bp3HCuZrf5krpg_KgHQbZbMepJo9gi8a7f8fRByMe2_Gi-2XpQ8gzv42wbd1aZkRd2GqREZE8ao0HV0u0H5sJrJvhhbzbDM456AJqCi7wPMOzdxGFFl5ZtbsRurbPU4Y_uvpIJ-SE_5DkV5D7YtHD64m-HzPcc34zv3DdTy8AkiiZ3LUWMVJL46K4R75m9aurPGIH0XrTMvkA3u3qe7Srv2ukM2dKVIcpM97WdO3-f2U60AztyOyxpjEAZJuE21nSR0--9_llLGgn0Hg1KhOyBTifAeFOgYQsXutJ21neBOq8XAl37ioDb8P-1ehOjgEJj1fDYy7FplUXA59VMPpyNo6tLW5cs1yq3A0I9ZDK-F9FqtCqphVVNrOVe3Xr6mcZ8Pk9rGbFONdFGWeae2Skrfi4GRvaN79luUrmGGjLP1gZ0jEhAMsk0XgZa35R8uE2FiJp2-X-1yeQqFRoWOwkfThfJsDDr7Pub124vn9VO5QycV6WybnRtTKocUFSQJ7XE8OCRN-8ZFOSZU_uMQsJlSN24Q9rA8fFzp7Dj_FL-NEqVhA.2F5ptp_b0xbUSy5Zwv83gQ
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://playbicho.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
