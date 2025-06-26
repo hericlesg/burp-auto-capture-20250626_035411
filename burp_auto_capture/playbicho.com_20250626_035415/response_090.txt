@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Jun 2025 06:50:07 GMT
+Server: Vercel
+Set-Cookie: __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Aw17Hclcz24Fcp4z.pf1hrExhAJw722GuevXkqvGsJmud7xrbyXwiD235KHXNz8W-elIggIa9uZz_dLxZVdyuKyYjv8uZAg4ZNdkk_ruW1tA7g5StSf82z4mnP0YYgL67CK2d_N1nyKprfz3wbfe_URZlAqQkZ3DjC8ettG9-2DWeG0yMgjd_dznmQfx1j7FPQPPRMD6a4plHFBA7OH1vVwAfkxhU0YIKcT2hE9Z-iya6IDMdt8AyLADtW-lo7Xc8M5pYF3Fso7Lte5PhrIoGoxhi5-Jqr8AOsm1VF6tzYBKIqg7oD6Kq41da_BGG_0jKwahHO2De_gRJYHmjvcQJgoVhUWjz0Cd9k6UDpQk_KbWQq6gTYI3DhCstNUXR7LStKBbdJwStFRoRcmgc5AUk9UJFCTT4zJRnUrGX6EKDTlL7PmDSHowif_fN-suQPsB0Ja19kaHS3WY8DuVTw3wal4P-eKRMDgyk3RX67MZxgWGwPhaqNlnM3GI2ph3R3-U-YgF4GTAJagHGwyg_N7J6Dqex4yFI_MK4HnH_jvaI4_yvAsHzyKsHW7q9B4JzNuOS1t8sn-vmpXBp1JwnbQsmYsyC-faD4vwvwkHJpSdJOfzJ5J27eJdFgfaAF-GDyzZAInjavm7MxSS-i5C4o0Y1e7a6QBwCSMFRiMXxMKBGk4apSEhL_7YVVLu3mAlWo6KwlM3Qw_sKNv4pSP7p358EeMQicgQpdEgyFbEP5Mg6wTwO0-5d5eVHZhyC2AcjXF8JX3fYUqaYZgW89T8Pq2ZgomXxONY4a6HtnBuZrTq2cuA1BJ2QuDPPRfVjleJYMDhYSVteWVoHUsI1ny5o0qLJhe5fT91_nCeQKfZkzsUc4UU1OIrBH_d07EP0tL03oSXvpT6J1tgToce0CbU5nSx8oW3vi5K4U-zeaidXJ_P86d_AsNtriepuDyoGvS7evw_0jli3sBLB8OqaTOuiWj8e740hU3UgSFtcNCziTnq-H1oglYAmGh09fSIV5GO49kS449FZNH-RFsVjOQ.gkT8K6o2PUT9pI1gkkLvqQ; Path=/; Expires=Fri, 27 Jun 2025 06:50:07 GMT; HttpOnly; Secure; SameSite=Lax
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /api/auth/[...nextauth]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::6s24j-1750920607801-889e9a85bbf6
+
+{"user":{"sub":28768,"id":28768,"email":"arhursantos25@yahoo.com","nome":"Arthur Gomes","role":"APOSTADOR","photo":"006","iat":1750920604,"exp":1751179804,"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjI4NzY4LCJpZCI6Mjg3NjgsImVtYWlsIjoiYXJodXJzYW50b3MyNUB5YWhvby5jb20iLCJub21lIjoiQXJ0aHVyIEdvbWVzIiwicm9sZSI6IkFQT1NUQURPUiIsInBob3RvIjoiMDA2IiwiaWF0IjoxNzUwOTIwNjA0LCJleHAiOjE3NTExNzk4MDR9.0tn3vN2VIpBUPFPr2Wd_LO0cFh6jMqVCAGETYP28iHg","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjI4NzY4LCJpZCI6Mjg3NjgsImVtYWlsIjoiYXJodXJzYW50b3MyNUB5YWhvby5jb20iLCJub21lIjoiQXJ0aHVyIEdvbWVzIiwicm9sZSI6IkFQT1NUQURPUiIsInBob3RvIjoiMDA2IiwiaWF0IjoxNzUwOTIwNjA0LCJleHAiOjE3NTE1MjU0MDR9.LyG-Pxw2NnNL1SoIMmzlm5Nmjoq5r87P-SUw4YODmj4"},"expires":"2025-06-27T06:50:07.861Z"}
