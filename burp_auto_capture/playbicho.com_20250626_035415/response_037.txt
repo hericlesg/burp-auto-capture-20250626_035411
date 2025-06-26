@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Age: 0
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:05:45 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /depositar.rsc
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::q2ftq-1750914345315-4907285a6826
+
+0:["m19vGXSGzXT5VnMRy7Y8J",[["children","depositar","children","__PAGE__",["__PAGE__",{}],["__PAGE__",{},[["$L1","$L2",null],null],null],["$L3",null]]]]
+4:I[46180,["8218","static/chunks/aaea2bcf-238c2184edf3cae3.js","9461","static/chunks/41ade5dc-9cd3e137e88de5c1.js","2188","static/chunks/2188-345bd2e4544a0da8.js","3145","static/chunks/3145-c93b764813b54316.js","5571","static/chunks/5571-cf6efe0edc370cb0.js","3614","static/chunks/3614-9964e74c2e9d1d4a.js","2911","static/chunks/2911-3950e18b9883644b.js","6180","static/chunks/6180-a9e8927f2d0b2c37.js","7934","static/chunks/app/depositar/page-61a47c6244ba4850.js"],"default"]
+5:I[81444,["8218","static/chunks/aaea2bcf-238c2184edf3cae3.js","9461","static/chunks/41ade5dc-9cd3e137e88de5c1.js","2188","static/chunks/2188-345bd2e4544a0da8.js","3145","static/chunks/3145-c93b764813b54316.js","5571","static/chunks/5571-cf6efe0edc370cb0.js","3614","static/chunks/3614-9964e74c2e9d1d4a.js","2911","static/chunks/2911-3950e18b9883644b.js","6180","static/chunks/6180-a9e8927f2d0b2c37.js","7934","static/chunks/app/depositar/page-61a47c6244ba4850.js"],"default"]
+2:["$","$L4",null,{"session":{"user":{"sub":28765,"id":28765,"email":"admxship@gmail.com","nome":"Hericles","role":"APOSTADOR","photo":"010","iat":1750914176,"exp":1751173376,"access_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjI4NzY1LCJpZCI6Mjg3NjUsImVtYWlsIjoiYWRteHNoaXBAZ21haWwuY29tIiwibm9tZSI6IkhlcmljbGVzIiwicm9sZSI6IkFQT1NUQURPUiIsInBob3RvIjoiMDEwIiwiaWF0IjoxNzUwOTE0MTc2LCJleHAiOjE3NTExNzMzNzZ9.148j4BLJMvMl8MNlGcXvymm1Bqebp8J9RFPJ0UTYKvc","refresh_token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOjI4NzY1LCJpZCI6Mjg3NjUsImVtYWlsIjoiYWRteHNoaXBAZ21haWwuY29tIiwibm9tZSI6IkhlcmljbGVzIiwicm9sZSI6IkFQT1NUQURPUiIsInBob3RvIjoiMDEwIiwiaWF0IjoxNzUwOTE0MTc2LCJleHAiOjE3NTE1MTg5NzZ9.B1XzwYeev_9lfnhLKQvZB9Ejblfpq4K2LItPqYJ7Ja8","user":"$undefined"}},"isProtectPage":true,"fullScreen":true,"children":["$","$L5",null,{}]}]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Depositar PIX | PlayBicho"}],["$","meta","3",{"name":"description","content":"Deposite saldo em sua conta PlayBicho via PIX!"}],["$","link","4",{"rel":"canonical","href":"https://playbicho.com"}],["$","meta","5",{"name":"google-site-verification","content":"v3PgaGPRz8EEMBe307QGkNuVsFfkWkakUP7zyUYwyBE"}],["$","link","6",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","7",{"name":"next-size-adjust"}]]
+1:null
