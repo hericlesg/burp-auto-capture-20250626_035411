@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Thu, 26 Jun 2025 06:50:04 GMT
+Server: Vercel
+Set-Cookie: __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..Z0zIE08DAGGIIuMN.Z_YAI49PUvhCjZ5mpWcD4x3LjFFs-DQMx9QmWGt49BWK-Lj-Hsbz_9mza9IW-U5HB3FKnBTp9zQaItMvY23JwaTt1KImjmKgsmsATVN0M10pR16USTxjDIy1KjLMe6JNot-ok1j0BiXbLT5ImLShDQw-6aOR6As5JaXSzoTTTkon-TwKlASfJywtk4vcXTvtmG1FrUvFmI90zwswit4SmDEb2bTJ-OqLDE2ut5PaFnFzSXTvKLLcBU6_zE2CNO2SqOXz1GVb3pGU40vnm7tAgIbcZetMNr-yv4We_RjoXHOa4EtxZbKeWg-kj8aJ3mN7eGaYJYoIc8Ti6l51yfxtceic0NEa2ewBYv0hvp42fnR5bp4DK0dAqpa1gbD_l5qwy6nTkjzeLpLsPDJt-tTZBpPYjqz-fWPJeNHkEXMw6hOa0feHOdKu7928sE3ejT1Dgl1aklozns56xSsPa478BscLYyMsDKwDrnAM3fziWsoxoDHGDSShJSJYW2qVyT67LYxn5EOHLR-lohRDkfmBEcVi9Q1FX7F68smRQzEJafrKBaYfs5Xktx_nqH9jZvC2MRwXycD0XX0YYtkclRETw_5K2x3KP4cMKZRT2jnb1BZ-bl_XI6KMiLUplQOtQfyNFto_rC8GlVwymQAQ-z3-yKIMiwmHKwulZYVTRfMIFlykhi2ZJkbnc7VfGdAxN2LqxiPtR4upMEMvSKYxw3hAAPTEYKvpMH93XJrTdREZ8NganIhDLuw4okJgh2lKXwbv5-Md8vbzC3FQzqhQ-wBedH8_TSvKYa8AoZ-Klhwn0Aq0U_70Hf2RO5xp4MwoqUCSsrhWMvZV-6_WSFv9ydtf2kVU7-3Gl6Q9Ioo-W8gRS8DEM3Mo-jwXp9MxB-niS489ctmaofuia3SdWb8DEiwYj4NFGodEJUFOlH-nUJnCYHo5OO7dod-JjaJs3xZxOAXlanrFZ9gatwoj60-7RM--y-ywotg0DBaWDeh-L-WVocAiKnOno7x1Pj6eLr3bMA.DX0SXUoyuuTyssQmR8bUJQ; Path=/; Expires=Fri, 27 Jun 2025 06:50:04 GMT; HttpOnly; Secure; SameSite=Lax
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /api/auth/[...nextauth]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::jw72s-1750920604175-b931891f32ea
+
+{"url":"https://playbicho.com"}
