@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:03:35 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Action-Revalidated: [[],0,0]
+X-Matched-Path: /jogo/roleta
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::hfrhf-1750914215486-0f01b48e1946
+
+0:["$@1",["m19vGXSGzXT5VnMRy7Y8J",null]]
+1:{"min_bet":"0.10","max_bet":"5000.00","roulette_min_prize":"100.00","roulette_max_prize":"100.00","lottery_min_prize":"150.00","lottery_max_prize":"100.00"}
