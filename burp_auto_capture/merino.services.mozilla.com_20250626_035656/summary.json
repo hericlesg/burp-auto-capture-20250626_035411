@@ -1,0 +1,31 @@
+{
+  "capture_timestamp": "20250626_035656", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/merino.services.mozilla.com_20250626_035656/request_001.txt", 
+      "url": "https://merino.services.mozilla.com:443/api/v1/suggest?q=&providers=accuweather&request_type=weather&sid=04c753d6-33bf-4c11-82ae-7d94cd172e3d&seq=0", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/merino.services.mozilla.com_20250626_035656/response_001.txt", 
+      "timestamp": 1750914268134
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/merino.services.mozilla.com_20250626_035656/request_002.txt", 
+      "url": "https://merino.services.mozilla.com:443/api/v1/suggest?q=&providers=accuweather&request_type=weather&sid=04c753d6-33bf-4c11-82ae-7d94cd172e3d&seq=1", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/merino.services.mozilla.com_20250626_035656/response_002.txt", 
+      "timestamp": 1750914274989
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/merino.services.mozilla.com_20250626_035656/request_003.txt", 
+      "url": "https://merino.services.mozilla.com:443/api/v1/suggest?q=&providers=accuweather&request_type=weather&sid=04c753d6-33bf-4c11-82ae-7d94cd172e3d&seq=2", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/merino.services.mozilla.com_20250626_035656/response_003.txt", 
+      "timestamp": 1750914282015
+    }
+  ], 
+  "host": "merino.services.mozilla.com", 
+  "total_requests": 3
+}
