@@ -1,0 +1,79 @@
+{
+  "capture_timestamp": "20250626_035707", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_001.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_001.txt", 
+      "timestamp": 1750914249056
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_002.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_002.txt", 
+      "timestamp": 1750914268244
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_003.txt", 
+      "url": "https://play.google.com:443/log?hasfast=true&auth=SAPISIDHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID1PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID3PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348&authuser=0&format=json", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_003.txt", 
+      "timestamp": 1750914269291
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_004.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_004.txt", 
+      "timestamp": 1750915770433
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_005.txt", 
+      "url": "https://play.google.com:443/log?hasfast=true&auth=SAPISIDHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID1PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID3PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348&authuser=0&format=json", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_005.txt", 
+      "timestamp": 1750915771334
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_006.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_006.txt", 
+      "timestamp": 1750920566408
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_007.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_007.txt", 
+      "timestamp": 1750920575295
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_008.txt", 
+      "url": "https://play.google.com:443/log?format=json&hasfast=true&authuser=1", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_008.txt", 
+      "timestamp": 1750920577332
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/play.google.com_20250626_035707/request_009.txt", 
+      "url": "https://play.google.com:443/log?hasfast=true&auth=SAPISIDHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID1PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID3PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348&authuser=0&format=json", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/play.google.com_20250626_035707/response_009.txt", 
+      "timestamp": 1750920578310
+    }
+  ], 
+  "host": "play.google.com", 
+  "total_requests": 9
+}
