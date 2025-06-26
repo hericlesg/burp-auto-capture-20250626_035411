@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250626_035700", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/ads.mozilla.org_20250626_035700/request_001.txt", 
+      "url": "https://ads.mozilla.org:443/v1/ads", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/ads.mozilla.org_20250626_035700/response_001.txt", 
+      "timestamp": 1750915768897
+    }
+  ], 
+  "host": "ads.mozilla.org", 
+  "total_requests": 1
+}
