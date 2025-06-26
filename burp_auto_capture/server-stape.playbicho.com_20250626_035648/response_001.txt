@@ -1,0 +1,7 @@
+HTTP/2 200 OK
+Date: Thu, 26 Jun 2025 05:03:20 GMT
+Set-Cookie: FPID=FPID2.2.C7IzPHRTNeVV83eh4c2anFO8%2Fh8bl9E%2FGlKOfjP8nQs%3D.1750913656; Max-Age=63072000; Domain=playbicho.com; Path=/; Secure; HttpOnly
+Trace-Id: 73b60782-9309-4ec2-b854-9d3d58360075
+X-Robots-Tag: noindex, nofollow
+Content-Length: 0
+
