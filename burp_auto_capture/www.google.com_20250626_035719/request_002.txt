@@ -1,0 +1,25 @@
+POST /recaptcha/api2/clr?k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o HTTP/2
+Host: www.google.com
+Content-Length: 2112
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://playbicho.com
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://playbicho.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+
+(6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o¹03AFcWeA4S6GtLwXN4H-7idjvRslBK6KiGrKSzxLxOljGlNdea1LvDizbaxfLxulhRHTUhv8Boe81ezbrRtEdLKW0K3DFpH4SVKApPPckchKeRlneqWIVU9EfM6PxMm8uhff5r57EKvaXUke3b6jtSshrAk9iDt0en8HsH5o60S18-W-MHGEZKFC309_ZNvyaALOoFcsKqVTElVIvcATAWhtlGejyaGqwIe4u8nTkBDHRzA9i5cTENYx3g9hcIOHUq0NdRubAco1Avx_-Z5z12PrEILxswGxQTN6b-ngJxlur2mx-RdP3c1v6CrIqqDLY5YmsnjZSIvlO8ESDur5fku_9lrVQVx_PDUckXiGSapPZ5tqeiZwlB9_S2e10mqzHZYH4bCrrZvQ2iQ_vrFb1b_xf7rXgVNvp4I70VGbTKrpZTeynL3yXqtShkrAVC0LgDRGdjbUjUccJn0E7zMuiXJLeowpDbUK5wGYo_9eV09GXIUar2W-T117q0rPZP3PXg4GTUrPETmlnvF8IoO_P7dftvAFZsZBOTWu3tysO6UAph_uxUnc7sw8N1m0OU_4itmj9zVAkHmqvsM2Lx8lGOc1QtjxJgT8n6otV8LzGBgBLnx7KSlO3wKM-v1PDYw9d9DEru-SrMCQC5zRU9o8doOC3mTZqr-gE0_zU3shDLPMsGbg1DAEYuBRvufNYC87uEl0-rBzLu89u7wI82-wnGotI4MrJDVcYsn2q-TbOBpzPikGEoKMQa5LumevOxcyDT_eRG3_rjdRdllxRIeD2i9wsXf7Tr6RZWIGlaqh6QF7wlfXUFWFjLvwsniO5NjGhW_FgzWVVrAG8YSam_ka1x6oTwtdm04w70FOhisdJu3C2tfsjuygy2hC7raHVv-SVdLEWw3D-dWgv1qYlu0Qob8lbYvRERhHe5Z8QYraFIShFEjxN1zfEoeeJkGrBmxZmMlT9PhykSdkLDMdUHacC7f-Kkmg6JpqYJD1ckm7plEWRxCx-xRHmbjke0wmZ9UYsGAHYqoxE1pc3936N-vKfF2hkbAE9LjKUJEDaP-sfFmNOLED8VVBAF90a8QOekF4ldrDyG36WlPg-cmZn2sIDVYUidTpZ0WH_tPS3aRjY4_FIXlN77ELQLL956A3mOn8sgHMA23g3gXbsi7-t7NgA4AWHJbMRH6HDN05S-KKqTAgSfTiy8pPLwUXDUp5BvvXZT8W523cXQ0tqqn7YFzjZib79C8YxUsjxSE0tFMXJRC-78t5U36hwqN3DLPUbrzhdegaj_BRgdz7Ul0luGmNZ7Ing0OJ336ep4laEmLwkX57gEiQ-F6Obkset5iyi7NM3r3Lz63kBpkWZbGylZag_KLUr5qvUlhm50AsbVugrbuAs3wOrd_I1tFCBOEKhIghs0kmRk1h89P1H1L9y6hu7yV9FbDmKIfizAl2ciFs2L-CyKh2BIyAoqAAUh6i4nFpm13mKFN0WDHbhD779JFzFBhHOmuDwSEpzNNz8_bxua_wmg0AQkSNG3YtxpCIyczy_FhhLtYWbP4Q31Thu7dftbKmwHHeEGhNkJxgwRS8UL97hyV6ftcXwAmn_xTEKXZCJ-GsFiNHGfEtJ8gyQbGexssJC0L4UN1qhr_rLY02iW673qVG3ljrS6RiSpTvC6Ga3ww_LgCQUd62UZdH2z_hWTdVKeGMbM5NweCfdwa6RNfxm3hmAef4tArgZstpaswPVx1U7Lal-SFUXLiM1-w7fyCm3pPR3AKdrdkt3p6T5sTvfHnRgkmm5OkceayKZNGRfLwzc08zOC4FWvks9PePWk2-vg0cdVXMgxdMC5up5wlMoUNpWTF3UEu6YlV5aNbRgDtFkW5kVEEV8fLt664ePF72Zk_cgG-HFX25v3eeWb3R3LqQnM3-bxVXBjUbHUMWHXIYwFpHFcGJ7pMgBEfNoM9M3YPXM0_P4R51z6cpaDRzsl4G4pMZI0XIIh7qt2xUGz2zqKEhSc8DD8baZ">*:
+úåo
+	ïå
+¸¬
+ñå{
+íæ*Ã
