@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 06:54:10 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Action-Revalidated: [[],0,0]
+X-Matched-Path: /conta
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::w6xqw-1750920850516-78d50063b5b5
+
+0:["$@1",["m19vGXSGzXT5VnMRy7Y8J",null]]
+1:{"id":28768,"status":1,"role":"APOSTADOR","username":null,"name":"Arthur Gomes","photo":"006","balance":"0.00","withdrawal_balance":"0.00","bonus_balance":"0.00","birth_date":null,"cpf":null,"email":"arhursantos25@yahoo.com","zip_code":null,"state":null,"city":null,"address":null,"whatsapp":"(62) 99337-6253","dt_created":"2025-06-26T06:49:21.546Z","dt_last_login":"2025-06-26T06:50:04.909Z","coupons":null,"allow_cpf_change":false,"first_access":true,"condition":"REGULAR","total_deposited":"0.00","total_withdrawn":"0.00","total_bets":"0.00","total_won":"0.00","number_bets":0,"affiliate":null,"referrer":null}
