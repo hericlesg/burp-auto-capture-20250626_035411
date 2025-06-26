@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250626_035412", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/accounts.google.com_20250626_035412/request_001.txt", 
+      "url": "https://accounts.google.com:443/RotateCookies", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/accounts.google.com_20250626_035412/response_001.txt", 
+      "timestamp": 1750915789865
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/accounts.google.com_20250626_035412/request_002.txt", 
+      "url": "https://accounts.google.com:443/RotateCookies", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/accounts.google.com_20250626_035412/response_002.txt", 
+      "timestamp": 1750920619758
+    }
+  ], 
+  "host": "accounts.google.com", 
+  "total_requests": 2
+}
