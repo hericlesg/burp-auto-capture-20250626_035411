@@ -1,0 +1,19 @@
+GET /recaptcha/api2/anchor?ar=1&k=6LcGUWcqAAAAAGmDPa93EsReGYFDwp8tDhOkAK_o&co=aHR0cHM6Ly9wbGF5YmljaG8uY29tOjQ0Mw..&hl=en&v=h7qt2xUGz2zqKEhSc8DD8baZ&size=invisible&cb=ugr77y4ols9e HTTP/2
+Host: www.google.com
+Cookie: _GRECAPTCHA=09ANMylNC5Gx5xiC8E33JzAtKoZ4ZogFw36UVxGZa_7QnoCI9p7XHNJIcLHFu6WvRAYxnONAMScahRfmJlBJR0z9M; NID=524=s5cPjjJzi6r8UnPzYURP2_nvgAMcmbiAp9TohYOwoyvLy_dgYU3k7d3iHjXATvstk0ifKGW6gFCK04skV5LDvAE4B4adiLWjasm5xiOE0G4I_J1eZ4XuMt_mStI_vrSCHcVPDufvwl6Smv1lmu2wvdQORQPTzZtkJMk-QECvO_GzKQn_rBywfA6SE8G2pR7I6PYEYIURWHE9XxCf7V19Va3tINxgb2xP1m2MvzdPU1_VhW0JwWC6k4HAReX5-5IfcFhU
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Referer: https://playbicho.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
