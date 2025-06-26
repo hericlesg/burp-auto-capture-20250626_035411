@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:30:45 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Action-Revalidated: [[],0,0]
+X-Matched-Path: /jogo/roleta
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::bhs7h-1750915845551-53145a364cd4
+
+0:["$@1",["m19vGXSGzXT5VnMRy7Y8J",null]]
+1:{"dt_created":"2025-06-26T05:30:45.815Z","modality":"Roleta","lottery":"INSTANTANEA","game":["02"],"typeAposta":["1Âº"],"amount":0.1,"instantRaffleEngine":[{"premio":1,"milhar":"5045","grupo":"12","animal":"Elefante"},{"premio":2,"milhar":"7585","grupo":"22","animal":"Tigre"},{"premio":3,"milhar":"8787","grupo":"22","animal":"Tigre"},{"premio":4,"milhar":"2917","grupo":"05","animal":"Cachorro"},{"premio":5,"milhar":"5353","grupo":"14","animal":"Gato"},{"premio":6,"milhar":"0803","grupo":"01","animal":"Avestruz"},{"premio":7,"milhar":"2104","grupo":"01","animal":"Avestruz"}],"prices":18}
