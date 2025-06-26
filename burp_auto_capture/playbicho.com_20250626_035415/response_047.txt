@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:07:14 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Action-Revalidated: [[],0,0]
+X-Matched-Path: /jogo/roleta
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::jw72s-1750914433921-42d628dfc04d
+
+0:["$@1",["m19vGXSGzXT5VnMRy7Y8J",null]]
+1:[{"user_id":13462,"name":"Jonas Elias Ribeiro Alves ","total_amount":17433},{"user_id":26011,"name":"JoÃ£o Vitor Tavares ","total_amount":3114},{"user_id":25260,"name":"Sidney Da Silva ","total_amount":540},{"user_id":28438,"name":"Anderson Santos ","total_amount":495},{"user_id":26863,"name":"Bruna Dos Santos Sampaio","total_amount":477},{"user_id":28748,"name":"Rafael Caldeira Moraes ","total_amount":396},{"user_id":25935,"name":"Raimundo Penafrote Ribeiro Filho ","total_amount":342},{"user_id":26702,"name":"Francisco Leandro Santos Da Silva ","total_amount":234},{"user_id":27908,"name":"Valdinei Aparecido Da Silva ","total_amount":234},{"user_id":26655,"name":"LucÃ©lio Leite","total_amount":216}]
