@@ -1,0 +1,12 @@
+POST /v1/ads HTTP/2
+Host: ads.mozilla.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: application/json
+Content-Length: 204
+Priority: u=4
+Te: trailers
+
+{"context_id":"{370f85cc-3f3c-4955-8f81-02c3b31131d5}","placements":[{"placement":"newtab_tile_1","count":1},{"placement":"newtab_tile_2","count":1},{"placement":"newtab_tile_3","count":1}],"blocks":[""]}
