@@ -1,0 +1,16 @@
+GET /_/service_worker/56n0/sw_iframe.html?origin=https%3A%2F%2Fplaybicho.com&1p=1 HTTP/2
+Host: server-stape.playbicho.com
+Cookie: _ga=GA1.1.1892317455.1750913656; _gcl_au=1.1.547885296.1750913656; FPID=FPID2.2.C7IzPHRTNeVV83eh4c2anFO8%2Fh8bl9E%2FGlKOfjP8nQs%3D.1750913656; FPLC=9hWYnz8o4iF4%2F6Sc9E8Q%2Bi%2FS2pTk3L2kY8xWM4w3A8M1MHb%2Fl2TkxF4d%2BdemkUwQXu4vlVfn02UfpzM8WWJ9l0yASoQiYfPaLECEUMJi3dIcPL4aO5K5Tp39XZayZQ%3D%3D; FPAU=1.1.547885296.1750913656; _fbp=fb.1.1750913656399.2071124089; FPGSID=1.1750913656.1750913656.G-4SF769PQCQ.vL85pfSqYoa0RDPnrzsUMg; _ga_9QJSE4GKKL=GS2.1.s1750913655$o1$g1$t1750914201$j1$l0$h0; _ga_XC5853QYZG=GS2.1.s1750913656$o1$g1$t1750914201$j1$l0$h0; _ga_4SF769PQCQ=GS2.1.s1750913656$o1$g1$t1750914201$j59$l0$h171993925
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
