@@ -1,0 +1,18 @@
+POST /log?hasfast=true&auth=SAPISIDHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID1PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348+SAPISID3PHASH+9dc6cea427abef2401be18e36c5088d1c72d2348&authuser=0&format=json HTTP/2
+Host: play.google.com
+Cookie: AEC=AVh_V2gzi2ARwv6qKXWGtuJlcmEea4uN7as_y6byXCRdD__HuOo9cMahlPQ; NID=525=Pl5bqIS4RRrLzYdW7AoFfpFKClYlLS7dpGjIkVcLlyKrax2SfXwIsdZVGcu7IVsQPiVbdpxC-ZAQn_1Feewd-2F7mwn00pGeu1ecHj3HXFrRWiEzYE07lcV18Z6sG-2ekFsiZKJw_fAbu7ZVsX4Bd_gsKR8mG4XRw0fugb5VjSuJwMCFejNrPii43wzvWC6jU7y5oGpYU0xghFE4NBkohuMcCiAt2-Fe9uVUofscnzcIJvSfN9d3fa6fgcs1KZ8xNAKF5qAM4IB-2og7RMSa3KpZAX6Yz9iVvNwxLC_AKIq6jrSRkE2zxv0SBps4tVaQB1gldoWe9Q3vMSBWrkOKyC_2Gu3Btvyp-cw3rEcSzb57yKFvMScJxbgoicg-VL7oHtZJvN_FmrACnqelzQf_fHRIBzSLToHA50qR79gh_LJ8EUm4CE_jr1jppGsBwr6W7P6GmUwFKMdCvuO1FvvsUzw_Y13IGQGAfcjigACJS1yBUmWpQ8osGvr2ECabHHoASTl06cSz6KYnMecNhoZP5r6zxu2eiL55QMylA964Miw3w3mFYOP3DrMWOn-BUVINITWeqErlB8jIHLp54j0B6wiqPmwM4aIwUmavGd1UoPzP9Imu-fPeSnWL2tGD6pPZfqeftmtM1fkZhL89GPb0XopRFp7fTIyW69xkYOQ2pOxCks6Dl-w_enVtEkNJlgHALBoWxf5BJyZv5sDs7aJ7QPDzHxeSpsqY3yOaR79yIpg6F-MmskpWauU; SID=g.a000yQhkF6bkU4ohC4MJRlb_bqsbFbPg5yTRk5nr8rsMiBy_gGqd26Dx-SbgVQxXSnOSVAwvogACgYKAZASARcSFQHGX2MiUJAA9eXLz_ZPcnuI8VOGJhoVAUF8yKphod3v2dS8dUMOCEbbqtYE0076; __Secure-1PSID=g.a000yQhkF6bkU4ohC4MJRlb_bqsbFbPg5yTRk5nr8rsMiBy_gGqdJB9uXJhPyDNssK6Io5tZwgACgYKAZISARcSFQHGX2Miihm-z6nJaxOPXQ15JS8pKxoVAUF8yKpAkpWZI24jdG48soFstIbm0076; __Secure-3PSID=g.a000yQhkF6bkU4ohC4MJRlb_bqsbFbPg5yTRk5nr8rsMiBy_gGqdtlhV290loiulnGho5PBo6QACgYKAUcSARcSFQHGX2Mi58iZ2R9bTwYR_D4FsBu7PhoVAUF8yKrfQFH7jdAn3CzKVeUYC0Xd0076; HSID=ApHj65hMz6wi2LQm2; SSID=A3KlgUkE1NHnYP9rd; APISID=q_aE3NKYWX3ICUBC/ADpe-b-eCgjSf06sc; SAPISID=NSdNZnKQ6MCV_jka/A6dlYUYsHQmqpTrZv; __Secure-1PAPISID=NSdNZnKQ6MCV_jka/A6dlYUYsHQmqpTrZv; __Secure-3PAPISID=NSdNZnKQ6MCV_jka/A6dlYUYsHQmqpTrZv; SIDCC=AKEyXzWIbJ8jwfnm_FQyAvWYLhD6g-VPUY505u4hlbRNH3wVltpNwv08trh-_qhHrIEvvIoNRw; __Secure-1PSIDCC=AKEyXzUl_vt5z9uN-7w334Vcz68Wl1Ky6feHo0RCvp9qgmllGj2pHsE7wrgtXsWoND8v-8FmNg; __Secure-3PSIDCC=AKEyXzUec_p3puWgra5tCzaOxbw9aYEirdi065FDQ77gznFs9nKzDTkzK-1xTjcMPU3sCDuVO_E; SEARCH_SAMESITE=CgQIop4B; __Secure-1PSIDTS=sidts-CjIB5H03PzSBtRvxjSiY5gErduwYV9mjFMRdsjpX_TIdNBNyl9ZfKKzcJbVqVPPJ8O27GxAA; __Secure-3PSIDTS=sidts-CjIB5H03PzSBtRvxjSiY5gErduwYV9mjFMRdsjpX_TIdNBNyl9ZfKKzcJbVqVPPJ8O27GxAA
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate, br
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 506
+Referer: https://mail.google.com/
+Origin: https://mail.google.com
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-site
+Priority: u=6
+Te: trailers
+
+[[1,null,null,null,null,null,null,null,null,null,[null,null,null,null,"en",null,"49",null,null,[3,0]]],1828,[["1750914269073",null,null,null,null,null,null,"[[[\"/client_streamz/bg/frs\",null,[\"mk\"],[[[[\"_\"]],[null,1739]]]],[\"/client_streamz/bg/ec\",null,[\"en\",\"mk\"],[[[[\"n\"],[\"_\"]],[1]]]],[\"/client_streamz/bg/el\",null,[\"en\",\"mk\"],[[[[\"n\"],[\"_\"]],[null,3]]]]]]",null,null,null,null,null,null,10800,[null,null,null,"[null,null,[102195078]]"],null,null,null,null,30]],"1750914269073"]
