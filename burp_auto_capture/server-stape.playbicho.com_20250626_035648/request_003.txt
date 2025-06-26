@@ -1,0 +1,17 @@
+GET /g/collect?v=2&tid=G-4SF769PQCQ&gtm=45je56o1v9217899717z89217330992za200zb9217330992&_p=1750914201059&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104784387~104784389&cid=1892317455.1750913656&ecid=171993925&ul=en-us&sr=2560x1080&ur=BR-GO&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&are=1&frm=0&pscdl=&_eu=AAAAAAQ&sst.etld=google.com.br&sst.tft=1750914201059&sst.lpc=66404975&sst.navt=n&sst.ude=1&sst.sw_exp=1&_s=1&sid=1750913656&sct=1&seg=1&dl=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&dr=https%3A%2F%2Fplaybicho.com%2F&dt=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&_tu=BA&en=page_view&ep.event_id=1750914455438_17509145112893&ep.action_source=website&epn.event_time=1750914201&tfd=16903&richsstsse HTTP/2
+Host: server-stape.playbicho.com
+Cookie: _ga=GA1.1.1892317455.1750913656; _gcl_au=1.1.547885296.1750913656; FPID=FPID2.2.C7IzPHRTNeVV83eh4c2anFO8%2Fh8bl9E%2FGlKOfjP8nQs%3D.1750913656; FPLC=9hWYnz8o4iF4%2F6Sc9E8Q%2Bi%2FS2pTk3L2kY8xWM4w3A8M1MHb%2Fl2TkxF4d%2BdemkUwQXu4vlVfn02UfpzM8WWJ9l0yASoQiYfPaLECEUMJi3dIcPL4aO5K5Tp39XZayZQ%3D%3D; FPAU=1.1.547885296.1750913656; _fbp=fb.1.1750913656399.2071124089; FPGSID=1.1750913656.1750913656.G-4SF769PQCQ.vL85pfSqYoa0RDPnrzsUMg; _ga_9QJSE4GKKL=GS2.1.s1750913655$o1$g1$t1750914201$j1$l0$h0; _ga_XC5853QYZG=GS2.1.s1750913656$o1$g1$t1750914201$j1$l0$h0; _ga_4SF769PQCQ=GS2.1.s1750913656$o1$g1$t1750914201$j59$l0$h171993925
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://playbicho.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://playbicho.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
