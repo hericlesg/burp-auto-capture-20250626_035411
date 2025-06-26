@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Cache-Control: public, max-age=0, must-revalidate
+Date: Thu, 26 Jun 2025 05:03:20 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /api/auth/[...nextauth]
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::hnvjn-1750914200126-75f06eb83a18
+Content-Length: 0
+
