@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Age: 0
+Cache-Control: private, no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:03:46 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Matched-Path: /jogo/passe-vai-1-5.rsc
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::rv7jq-1750914226733-cfb990ed7690
+
+1:I[4707,[],""]
+2:I[36423,[],""]
+0:["m19vGXSGzXT5VnMRy7Y8J",[["children","jogo","children","passe-vai-1-5",["passe-vai-1-5",{"children":["__PAGE__",{}]}],["passe-vai-1-5",{"children":null},[null,["$","$L1",null,{"parallelRouterKey":"children","segmentPath":["children","jogo","children","passe-vai-1-5","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L2",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null],["$L3",null]]]]
+3:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Entendendo o Passe Vai 1Âº/5Âº no Jogo do Bicho Play Bicho"}],["$","meta","3",{"name":"description","content":"Descubra as regras e estratÃ©gias do passe vai no jogo do bicho. Aprenda como funciona essa modalidade e melhore suas apostas agora!"}],["$","link","4",{"rel":"canonical","href":"https://playbicho.com/jogo/passe-vai-1-5"}],["$","meta","5",{"name":"google-site-verification","content":"v3PgaGPRz8EEMBe307QGkNuVsFfkWkakUP7zyUYwyBE"}],["$","link","6",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","meta","7",{"name":"next-size-adjust"}]]
