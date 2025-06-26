@@ -1,0 +1,26 @@
+HTTP/2 200 OK
+Content-Type: application/json+protobuf; charset=UTF-8
+Strict-Transport-Security: max-age=10886400; includeSubdomains
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Date: Thu, 26 Jun 2025 06:49:25 GMT
+Server: scaffolding on HTTPServer2
+Content-Length: 596
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://mail.google.com
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: vary,vary,vary,content-encoding,date,server,content-length
+Set-Cookie: SIDCC=AKEyXzXwb7Hdw9pugQ_fzKYfYDCwjfbvfVMfgpQZ_k3Tnb_Kn6hDr07C7LOUYrQEdHcJKckUCQ; expires=Fri, 26-Jun-2026 06:49:25 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzX3tfKtDeiJEtVRaZluInLagMTQR76atzscePK2dXedV-fpDV3DjoM45s9znFTQW3YmEQ; expires=Fri, 26-Jun-2026 06:49:25 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzXy4fmRrOBpzeH5gRHYb6ZuN-4ZguUf_rgF8kgncaiythabHOAUY3eboppkwTW0rphNN-c; expires=Fri, 26-Jun-2026 06:49:25 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Set-Cookie: SIDCC=AKEyXzUti1vIKy_mN6sZDtKxzE3T5JN-21MmAjlgOcfBCYGQVfcwaGESUx-RL-xo_mHTTXNlgw; expires=Fri, 26-Jun-2026 06:49:25 GMT; path=/; domain=.google.com; priority=high
+Set-Cookie: __Secure-1PSIDCC=AKEyXzVEpTqTJ9Uc_qJqgzskzVLQ1vYRaj-ydxU7dwzVfwLa0zoP3ooxSEzh12mZgs6qVreekw; expires=Fri, 26-Jun-2026 06:49:25 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high
+Set-Cookie: __Secure-3PSIDCC=AKEyXzUaLHHWh8bP8z4aOEGE68lM2hYkAaXSSNucmBE_3qAv9tC9Q0EVVon4rg1kVKdM1TPYk_w; expires=Fri, 26-Jun-2026 06:49:25 GMT; path=/; domain=.google.com; Secure; HttpOnly; priority=high; SameSite=none
+Expires: Thu, 26 Jun 2025 06:49:25 GMT
+Cache-Control: private
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+[[1,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,[null,null,null,0,0,null,0],null,null,null,[0]],"116506245322047063847",[1714257]]
