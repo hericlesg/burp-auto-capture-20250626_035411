@@ -1,0 +1,18 @@
+POST /g/collect?v=2&tid=G-9QJSE4GKKL&gtm=45je56o1v9120845039za200zb9217330992&_p=1750914201059&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104784387~104784389&cid=1892317455.1750913656&ul=en-us&sr=2560x1080&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&are=1&frm=0&pscdl=&_eu=AEAAAAQ&_s=3&dl=https%3A%2F%2Fplaybicho.com%2Fjogo%2Froleta&dr=https%3A%2F%2Fplaybicho.com%2Fdepositar&sid=1750913655&sct=1&seg=1&dt=Jogue%20Roleta%20no%20Jogo%20do%20Bicho%3A%20Saques%20R%C3%A1pidos%20via%20PIX&en=page_view&_et=72455&tfd=239386 HTTP/2
+Host: www.google-analytics.com
+Content-Length: 0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Sec-Ch-Ua-Mobile: ?0
+Accept: */*
+Origin: https://playbicho.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: https://playbicho.com/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
