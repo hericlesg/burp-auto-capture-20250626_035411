@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: text/x-component
+Date: Thu, 26 Jun 2025 05:06:57 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch
+X-Action-Revalidated: [[],0,0]
+X-Matched-Path: /jogo/roleta
+X-Powered-By: Next.js
+X-Vercel-Cache: MISS
+X-Vercel-Id: gru1::gru1::ng8z4-1750914417764-7bf543d9dc6c
+
+0:["$@1",["m19vGXSGzXT5VnMRy7Y8J",null]]
+1:{"registration_modal_phrase1":"Hey. Tem certeza de que deseja cancelar seu registro??","registration_modal_phrase2":"AtÃ© R$ 100,00 em bÃ´nus! Deposite agora e ganhe o DOBRO - CADASTRE-SE AGORA!","modal_sidebanner":"http://res.cloudinary.com/dqz0ykkif/image/upload/v1728673155/wrt6mxkyoa1nsq9vkqdv.jpg","header_phrase":"Ganhei ð¤ jogando na LOTERIA INSTANTÃNEA!!!","header_phrase_link":"https://playbicho.com/jogo-do-bicho","title_after_registration":"ParabÃ©ns pelo cadastrar ðð»","subtitle_after_registration":"VocÃª esta a 1 passo de ganharð¤ ","description_color_after_registration":"VocÃª ganhou um BÃNUS!ð¥","description_after_registration":"NÃ£o esqueÃ§a que o seu primeiro DepÃ³sito Ã© em Dobroð"}
